@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T05:20:08.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="3HuHItNdYS4LzCdXfjat" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-04T07:20:19.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="XK_YqkKXNGQiFhmoBmh5" version="14.4.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2571" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,6 +564,18 @@
         </mxCell>
         <mxCell id="tBodU4Q1IQQOX9P65XnI-130" value="证明当A成立时，B是小概率事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
           <mxGeometry x="-20" y="1380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-140" target="tBodU4Q1IQQOX9P65XnI-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-140" value="想知道什么情况下&lt;br&gt;硬币不均匀" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="140" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-142" value="我是游戏厅老板，硬币均匀我就赚钱，为了验硬币，我买了机器，快速投100枚币" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="290" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-144" value="原假设H0：硬币均匀 A&amp;nbsp;&lt;br&gt;备择假设H1：硬币不均匀 NOT A&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="140" y="1130" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
