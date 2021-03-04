@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T13:29:09.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="E2eyFKE7LvjOIsY7Tz6y" version="14.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-04T19:17:21.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="aQdC1jzW6W9lB-UdyuOw" version="14.4.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2571" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4gA5OxUVd_XXTZanAqwX" name="Page-2">
-    <mxGraphModel dx="8294" dy="4229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5969" dy="3005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="M1Kj_39iP2AGimqlnrWc-0" />
         <mxCell id="M1Kj_39iP2AGimqlnrWc-1" parent="M1Kj_39iP2AGimqlnrWc-0" />
@@ -1460,6 +1460,180 @@
         </mxCell>
         <mxCell id="tBodU4Q1IQQOX9P65XnI-429" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-415" target="tBodU4Q1IQQOX9P65XnI-415">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-439" value="电商平台实例" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-440" value="业务场景" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="497.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-441" value="电商用户的主要购买模式" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-442" value="用户考量和中小店铺的价值" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-443" value="流量扶持业务思路" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-444" value="解决问题流程" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-447" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-445" target="tBodU4Q1IQQOX9P65XnI-446">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-445" value="利用AB寻求电商流量分配的最优解" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="2940" y="875.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-449" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-446" target="tBodU4Q1IQQOX9P65XnI-448">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-446" value="展示位 到底放几个" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3140" y="875.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-451" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-448" target="tBodU4Q1IQQOX9P65XnI-450">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3245" y="1120" />
+              <mxPoint x="3245" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-456" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-448" target="tBodU4Q1IQQOX9P65XnI-454">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-448" value="目标 提升中小店铺在下单推荐页的下单量，提升30%&lt;br&gt;&lt;br&gt;二类指标： C类店铺 人均下单量上升30%&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3140" y="1000" width="210" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-458" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-450" target="tBodU4Q1IQQOX9P65XnI-457">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-460" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-450" target="tBodU4Q1IQQOX9P65XnI-459">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-450" value="一类指标 ： A类店铺人均下单量下降在两个标准差内 （15% ）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3150" y="1155.5" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-454" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;（因为总量不是有效统计量&amp;nbsp;&lt;br&gt;所以经过拆解 用人均下单量&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3470" y="1007.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-457" value="要分析历史数据看推荐页给大店铺带来的流量和成单量" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3490" y="1155.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-462" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-459" target="tBodU4Q1IQQOX9P65XnI-461">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-464" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-459" target="tBodU4Q1IQQOX9P65XnI-463">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-470" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-459" target="tBodU4Q1IQQOX9P65XnI-469">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-459" value="原假设与备择假设&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-466" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-461" target="tBodU4Q1IQQOX9P65XnI-465">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-461" value="一类指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3370" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-468" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-463" target="tBodU4Q1IQQOX9P65XnI-467">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-463" value="二类指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3370" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-465" value="H1 ： 对照组人均下单量 - 实验组人均下单量&amp;nbsp; &amp;lt; 2 x 实验前人均下单量标准差&lt;br&gt;H0 ： 对照组人均下单量 - 实验组人均下单量&amp;nbsp; &amp;gt;= 2 x 实验前人均下单量标准差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3570" y="1270" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-467" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;H1 ： 实验组人均下单量 - 对照组人均下单量&amp;nbsp; &amp;gt; 30%对照组人均下单量&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;H0 ： 实验组人均下单量 - 对照组人均下单量&amp;nbsp; &amp;lt;=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;30%对照组人均下单量&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3570" y="1350" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-472" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-469" target="tBodU4Q1IQQOX9P65XnI-471">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-474" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-469" target="tBodU4Q1IQQOX9P65XnI-473">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-469" value="计算分组样本量" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-471" value="Python 实现" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3385" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-476" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-473" target="tBodU4Q1IQQOX9P65XnI-475">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-478" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-473" target="tBodU4Q1IQQOX9P65XnI-477">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-473" value="检验策略选择&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-475" value="明确了目标 单侧检验" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3385" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-480" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-477" target="tBodU4Q1IQQOX9P65XnI-479">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3360" y="1770" />
+              <mxPoint x="3360" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-482" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-477" target="tBodU4Q1IQQOX9P65XnI-481">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-477" value="设计分组策略" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-479" value="A 组： 下单推荐页前12个推荐，9个C类店铺商品B 组： 下单推荐页前12个推荐，6个C类店铺商品C 组： 下单推荐页前12个推荐，3个C类店铺商品D 组： 作为对照组 不进行干预" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3385" y="1740" width="265" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-485" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-481" target="tBodU4Q1IQQOX9P65XnI-484">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-487" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-481" target="tBodU4Q1IQQOX9P65XnI-486">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-481" value="实验结论分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-484" value="Python 实现" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3380" y="1880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-489" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-486" target="tBodU4Q1IQQOX9P65XnI-488">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3370" y="2050" />
+              <mxPoint x="3370" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-486" value="实验决策和后续决策" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3185" y="2020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-488" value="一类指标评估：B策略的一类指标下降幅度在两个标准差内，符合要求&lt;br&gt;二类指标评估：B策略的二类指标最优，同时上升幅度显著大于30%，符合要求。&lt;br&gt;决策：考虑推全B策略&lt;br&gt;多几天数据测试 避免异常值干扰" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3385" y="2015" width="455" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-490" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-491" target="tBodU4Q1IQQOX9P65XnI-494">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-491" value="一类指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3175" y="341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-492" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="M1Kj_39iP2AGimqlnrWc-1" source="tBodU4Q1IQQOX9P65XnI-493" target="tBodU4Q1IQQOX9P65XnI-495">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-493" value="二类指标" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3175" y="421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-494" value="H1 ： 对照组点击率 - 实验组点击率&amp;nbsp; &amp;lt; 2 x 对照组点击率标准差&lt;br&gt;H0 ： 对照组点击率-实验组点击率&amp;nbsp; &amp;gt;= 2 x 对照组点击率标准差" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3375" y="341" width="575" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tBodU4Q1IQQOX9P65XnI-495" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;H1 ： 实验组平均停留时长 - 对照组平均停留时长&amp;nbsp; &amp;gt; 10%&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;对照组&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;平均&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;停留时长&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;H1 ： 实验组平均停留时长 - 对照组平均停留时长&amp;nbsp; &amp;lt;= 10%&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;对照组&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;平均&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;停留时长&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="M1Kj_39iP2AGimqlnrWc-1">
+          <mxGeometry x="3375" y="421" width="575" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
